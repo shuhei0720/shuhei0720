@@ -2,15 +2,22 @@
 
 ### An experienced Cloud Engineer
 
-- 🔭 I'm currently working on **Azureを中心としたクラウド基盤の設計・構築・運用に従事しているインフラエンジニアです。
-特に、Azure CAFに準拠したランディングゾーン設計、Hub-Spokeネットワーク、Azure Policy、Defender for Cloud、KQLを用いたログ分析、IaCや運用自動化を強みとしています。**
+- 🔭 I'm currently working on<br> **Azureを中心としたクラウド基盤の設計・構築・運用に従事しているインフラエンジニアです。<br>
+特に、Azure CAFに準拠したランディングゾーン設計、Hub-Spokeネットワーク、Azure Policy、Defender for Cloud、KQLを用いたログ分析、IaCや運用自動化を強みとしています。<br>
+直近では、Azure案件にて、ランディングゾーン設計・実装、DNS基盤設計、Azureテナント間移行、EDR導入、Azure Firewall運用設計、Log Analytics保存期間設計、Azure Policyカスタム設計、Logic Apps/Bicep/Terraformを活用した運用自動化に携わってきました。<br>また、AzureだけでなくAWS環境での設計経験もあります。**
 
-- 🌱 I'm currently learning **直近では、Azure案件にて、ランディングゾーン設計・実装、DNS基盤設計、Azureテナント間移行、EDR導入、Azure Firewall運用設計、Log Analytics保存期間設計、Azure Policyカスタム設計、Logic Apps/Bicep/Terraformを活用した運用自動化に携わってきました。また、AzureだけでなくAWS環境での設計経験もあります。**
+- 🌱 I'm currently learning <br>**GitHubで、Azure Landing Zone、Terraform、IaC、ナレッジ、個人開発に関するポートフォリオを公開しています。<br>
+特に、Azure Landing ZoneをTerraformで扱う検証・実装・ガイド整備や、技術ナレッジの体系化を継続しており、実務経験に加えて自発的に技術理解を深めている点が強みです。<br>
+また、React/Next.JS/PHPを使用した個人開発アプリも公開しており、インフラだけでなくアプリケーション視点も踏まえてシステム全体を捉えられるよう意識しています。<br>
+GitHub Portfolio:<br>
+Azure Landing Zone / Terraform: https://github.com/shuhei0720/alz-terraform<br>
+Azure Landing Zone Guide: https://github.com/shuhei0720/alz-terraform-guide<br>
+Knowledge Base: https://github.com/shuhei0720/knowledge_base<br>
+Personal Development: https://github.com/shuhei0720/keion-circle-site**
 
-- 👯 I'm looking to collaborate on **クラウド基盤の設計・構築・運用を一気通貫で対応できること、そしてネットワーク・セキュリティ・監視・自動化まで横断して扱えることが強みです。
+- 👯 I'm looking to collaborate on <br>**クラウド基盤の設計・構築・運用を一気通貫で対応できること、そしてネットワーク・セキュリティ・監視・自動化まで横断して扱えることが強みです。<br>
 Azure / AWS案件、クラウド基盤設計、運用高度化、自動化、ガバナンス整備に関するご相談を歓迎します。**
 
-- 👨‍💻 Sample projects are available at **[https://github.com/shuhei0720/alz-terraform-guide](https://github.com/shuhei0720/alz-terraform-guide)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
